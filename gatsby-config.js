@@ -2,13 +2,13 @@ module.exports = {
   siteMetadata: {
     title: `- B A R I C H I A N -`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Hacobo Barich`,
+      summary: `Bienvenidos.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Opinion - Vida - Emprendimiento - Finanzas - Deportes.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `hacobobarich`,
     },
   },
   plugins: [
