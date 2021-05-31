@@ -3,7 +3,7 @@ module.exports = {
     title: `- B A R I C H I A N -`,
     author: {
       name: `Hacobo Barich`,
-      summary: `Bienvenidos.`,
+      summary: `Opinion - Vida - Emprendimiento - Finanzas - Deportes.`,
     },
     description: `Opinion - Vida - Emprendimiento - Finanzas - Deportes.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
